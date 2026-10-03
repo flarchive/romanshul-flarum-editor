@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of romanshul/flarum-editor.** Not for installation: use [Packagist](https://packagist.org/packages/romanshul/flarum-editor) or the [upstream repository](https://github.com/romanshul/flarum-editor).
 
-**0** versions archived · Latest: [`1.0.3`](https://github.com/flarchive/romanshul-flarum-editor/tree/archive/v1.0.3) · License: `MIT` · Flarum: `^1.0.0`
+**3** versions archived · Latest: [`1.0.3`](https://github.com/flarchive/romanshul-flarum-editor/tree/archive/v1.0.3) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2022-09-21 | `^1.0.0` | [Browse](https://github.com/flarchive/romanshul-flarum-editor/tree/archive/v1.0.0) |
+| `1.0.1` | 2022-09-21 | `^1.0.0` | [Browse](https://github.com/flarchive/romanshul-flarum-editor/tree/archive/v1.0.1) |
+| `1.0.3` | 2022-09-21 | `^1.0.0` | [Browse](https://github.com/flarchive/romanshul-flarum-editor/tree/archive/v1.0.3) |
 
 Catalog entry: [packages/romanshul-flarum-editor.json](https://github.com/flarchive/archive-index/blob/main/packages/romanshul-flarum-editor.json)
 
